@@ -23,4 +23,5 @@ int main()
     net_monthly = gross_salary/12;
     printf("Net Monthly Salary = %f\n", net_monthly);
     return 0;
+
 }
