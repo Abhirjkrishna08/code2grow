@@ -3,7 +3,7 @@
 int main(){
     int total_customer,items,item_code,quantity,total=0,j;
     float final_bill=0,discount,total_revenue=0;
-    char name[10];
+    char name;
     printf("Enter the total number of customers\n");
     scanf("%d",&total_customer);
     for(int i=1;i<=total_customer;i++){
